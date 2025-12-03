@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/dream-loom/static/css/main.f855e6bc.css",
-    "main.js": "/dream-loom/static/js/main.02e0b62e.js",
-    "static/js/453.a5ca8964.chunk.js": "/dream-loom/static/js/453.a5ca8964.chunk.js",
-    "static/media/logo.svg": "/dream-loom/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/dream-loom/static/css/main.524054f8.css",
+    "main.js": "/dream-loom/static/js/main.7d9df1ce.js",
     "index.html": "/dream-loom/index.html",
-    "main.f855e6bc.css.map": "/dream-loom/static/css/main.f855e6bc.css.map",
-    "main.02e0b62e.js.map": "/dream-loom/static/js/main.02e0b62e.js.map",
-    "453.a5ca8964.chunk.js.map": "/dream-loom/static/js/453.a5ca8964.chunk.js.map"
+    "main.524054f8.css.map": "/dream-loom/static/css/main.524054f8.css.map",
+    "main.7d9df1ce.js.map": "/dream-loom/static/js/main.7d9df1ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.02e0b62e.js"
+    "static/css/main.524054f8.css",
+    "static/js/main.7d9df1ce.js"
   ]
 }
