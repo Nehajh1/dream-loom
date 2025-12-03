@@ -1,0 +1,28 @@
+.login-page {
+  padding: 2rem;
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.login-page input {
+  width: 100%;
+  padding: 0.7rem;
+  margin: 0.5rem 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.login-page button {
+  width: 100%;
+  padding: 0.7rem;
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.login-page button:hover {
+  background-color: #357ab8;
+}

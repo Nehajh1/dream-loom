@@ -1,0 +1,28 @@
+.create-dream-page {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.create-dream-page input,
+.create-dream-page textarea {
+  width: 100%;
+  padding: 0.7rem;
+  margin: 0.5rem 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.create-dream-page button {
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.create-dream-page button:hover {
+  background-color: #357ab8;
+}
