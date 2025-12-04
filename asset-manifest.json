@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dream-loom/static/css/main.524054f8.css",
-    "main.js": "/dream-loom/static/js/main.7d9df1ce.js",
+    "main.css": "/dream-loom/static/css/main.fea24d64.css",
+    "main.js": "/dream-loom/static/js/main.e4c06bcb.js",
     "index.html": "/dream-loom/index.html",
-    "main.524054f8.css.map": "/dream-loom/static/css/main.524054f8.css.map",
-    "main.7d9df1ce.js.map": "/dream-loom/static/js/main.7d9df1ce.js.map"
+    "main.fea24d64.css.map": "/dream-loom/static/css/main.fea24d64.css.map",
+    "main.e4c06bcb.js.map": "/dream-loom/static/js/main.e4c06bcb.js.map"
   },
   "entrypoints": [
-    "static/css/main.524054f8.css",
-    "static/js/main.7d9df1ce.js"
+    "static/css/main.fea24d64.css",
+    "static/js/main.e4c06bcb.js"
   ]
 }
