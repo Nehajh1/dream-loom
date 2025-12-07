@@ -5,7 +5,7 @@ function DreamDetails() {
   const { id } = useParams();
 
   const dreams = {
-    1: "This is the full text for Dream 123.",
+    1: "This is the full text for Dream abc.",
     2: "This is the full text for Dream 2."
   };
 
